@@ -1,5 +1,5 @@
 # Annual-Income-Prediction-with-Machine-Learning
-Hello there! 👋 This is my GitHub repository where I've shared the Python code for predicting income levels using machine learning techniques. The dataset I used is the "Adult" dataset, which includes various features such as education, work class, marital status, and more.
+Here I've shared the Python code for predicting income levels using machine learning techniques. The dataset I used is the "Adult" dataset, which includes various features such as education, work class, marital status, and more.
 
 # Dataset
 I load the dataset using Pandas and perform initial exploratory data analysis to understand the distribution of values in different columns.
